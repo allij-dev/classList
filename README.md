@@ -1,6 +1,6 @@
 # Class List for 1.125 - Fall 2019
 First-Name,Last-Name,GithubID
-Allison,Johnson,allij-dev
+Allison,Johnson,allij-dev - https://allij-dev.github.io/HW1/
 Kayhan, Babakan, ihavenoidea
 Luciana,Bueno,lucianabueno
 Nelson, Munoz, nmunoz1
